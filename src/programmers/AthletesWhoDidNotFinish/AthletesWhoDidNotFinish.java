@@ -30,10 +30,11 @@ class AthletesWhoDidNotFinishSolution {
     private static void deleteCompletionInMap(String[] completion, Map<String, Integer> map) {
         Arrays.stream(completion).forEach(i->{
             if(map.containsKey(i)){
-                Integer value = map.get(i) - 1;
+                int value = map.get(i) - 1;
                 if(value == 0) {
                     map.remove(i);
-                } else {
+                }
+                else {
                     map.put(i,value);
                 }
             }
@@ -45,7 +46,8 @@ class AthletesWhoDidNotFinishSolution {
             if(map.containsKey(i)){
                 Integer value = map.get(i) + 1;
                 map.put(i,value);
-            } else {
+            }
+            else {
                 map.put(i,1);
             }
         });
