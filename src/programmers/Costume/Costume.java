@@ -1,14 +1,13 @@
-package programmers.Camouflage;
+package programmers.Costume;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.Collectors;
 
-public class Camouflage {
+public class Costume {
 
     public static void main(String[] args) {
-        CamouflageSolution sol = new CamouflageSolution();
+        CostumeSolution sol = new CostumeSolution();
 
         String[][] clothes = new String[][] {{"yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"}, {"green_turban", "headgear"}};
 //        String[][] clothes = new String[][] {{"crow_mask", "face"}, {"blue_sunglasses", "face"}, {"smoky_makeup", "face"}};
@@ -17,7 +16,7 @@ public class Camouflage {
     }
 }
 
-class CamouflageSolution {
+class CostumeSolution {
     public int solution(String[][] clothes) {
         Map<String, Integer> map = new HashMap<>();
 
