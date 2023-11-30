@@ -15,11 +15,11 @@ https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=java
 ```
 와 같은 요청이 들어왔습니다. 이를 그림으로 표현하면 아래와 같습니다.<br/>
 
-<img src="src/programmers/DiskController/img1.png">
+<img src="./img1.png">
 
 한 번에 하나의 요청만을 수행할 수 있기 때문에 각각의 작업을 요청받은 순서대로 처리하면 다음과 같이 처리 됩니다.<br/>
 
-<img src="src/programmers/DiskController/img2.png">
+<img src="./img2.png">
 
 ```
 - A: 3ms 시점에 작업 완료 (요청에서 종료까지 : 3ms)
@@ -30,7 +30,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/42627?language=java
 
 하지만 A → C → B 순서대로 처리하면<br/>
 
-<img src="src/programmers/DiskController/img3.png">
+<img src="./img3.png">
 
 ```
 - A: 3ms 시점에 작업 완료(요청에서 종료까지 : 3ms)
