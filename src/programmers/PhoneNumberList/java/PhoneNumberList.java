@@ -1,4 +1,4 @@
-package programmers.PhoneNumberList;
+package programmers.PhoneNumberList.java;
 
 import java.util.Arrays;
 import java.util.HashMap;

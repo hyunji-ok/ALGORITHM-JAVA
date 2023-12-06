@@ -1,4 +1,4 @@
-package programmers.RoughKeyboard;
+package programmers.RoughKeyboard.java;
 
 import java.util.Arrays;
 import java.util.HashMap;

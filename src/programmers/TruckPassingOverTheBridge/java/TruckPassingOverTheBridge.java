@@ -1,4 +1,4 @@
-package programmers.TruckPassingOverTheBridge;
+package programmers.TruckPassingOverTheBridge.java;
 
 import java.util.LinkedList;
 import java.util.Queue;

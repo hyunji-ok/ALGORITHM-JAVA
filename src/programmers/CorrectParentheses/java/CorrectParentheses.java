@@ -1,4 +1,4 @@
-package programmers.CorrectParentheses;
+package programmers.CorrectParentheses.java;
 
 import java.util.Stack;
 

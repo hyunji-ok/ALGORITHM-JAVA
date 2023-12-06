@@ -1,4 +1,4 @@
-package programmers.BestAlbum;
+package programmers.BestAlbum.java;
 
 import java.util.*;
 import java.util.stream.Collectors;

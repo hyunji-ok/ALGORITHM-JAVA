@@ -1,4 +1,4 @@
-package programmers.Process;
+package programmers.Process.java;
 
 import java.util.ArrayDeque;
 import java.util.Collections;

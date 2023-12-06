@@ -1,4 +1,4 @@
-package programmers.IHateTheSameNumber;
+package programmers.IHateTheSameNumber.java;
 
 import java.util.Arrays;
 import java.util.Stack;

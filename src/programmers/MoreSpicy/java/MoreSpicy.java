@@ -1,4 +1,4 @@
-package programmers.MoreSpicy;
+package programmers.MoreSpicy.java;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

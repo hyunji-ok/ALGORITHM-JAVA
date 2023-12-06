@@ -1,4 +1,4 @@
-package programmers.StockPrice;
+package programmers.StockPrice.java;
 
 import java.util.Arrays;
 import java.util.LinkedList;

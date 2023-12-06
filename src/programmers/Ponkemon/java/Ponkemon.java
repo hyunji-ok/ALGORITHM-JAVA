@@ -1,4 +1,4 @@
-package programmers.Ponkemon;
+package programmers.Ponkemon.java;
 
 import java.util.Arrays;
 import java.util.HashMap;

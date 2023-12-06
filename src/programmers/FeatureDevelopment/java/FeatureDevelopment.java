@@ -1,4 +1,4 @@
-package programmers.FeatureDevelopment;
+package programmers.FeatureDevelopment.java;
 
 import java.util.*;
 
